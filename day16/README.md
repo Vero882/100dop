@@ -21,3 +21,6 @@ The project for today is converting the coffee machine (created in day 15) into 
 - menu.py
 - money_machine.py
 
+## Thoughts
+Overall, the day 16 project was pretty simple since it was built from the day 15 project, but also because some of the files were provided.
+It was intended more as an introduction to *interacting* with classes, rather than creating them myself. 
