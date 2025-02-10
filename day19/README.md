@@ -18,3 +18,4 @@ The project for today is to create a turtle race with multiple turtle objects ac
 - main.py - The file was provided, but doesn't do anything by default except import the Turtle and Screen module. 
 
 ## Thoughts
+Todays project seemed similar to yesterdays, where it was not really a "do it on your own" sort of project, but a work together with the video project. Although the concepts weren't very difficult, it was still a fun project to go through. I feel like I thought a little too much about the turtle layout for the starting locations to make sure they were semi-even. 
