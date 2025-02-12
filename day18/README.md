@@ -16,7 +16,7 @@ This day covers GUI insterations with the Turtle Grphics module, as well as Tupl
 138. Space out your study sessions and stay consistent
 
 
-## Day 16 Project
+## Day 18 Project
 The project for today is to develop a Hirst Painting by randomly generating dots across the screen to create works of art.
 
 Example:

@@ -11,7 +11,7 @@ This day covers more turtle graphics, but also touching on event listeners, high
 145. Expand on the solutions
 
 
-## Day 16 Project
+## Day 19 Project
 The project for today is to create a turtle race with multiple turtle objects acting independantly of one another.
 
 ### Files Provided:

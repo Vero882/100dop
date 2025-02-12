@@ -4,12 +4,12 @@ This day covers creating a snake game utilizing OOP.
 ## The video lessons are:
 146. Day 20 goals: what we will make by the end of the day
 147. Screen setup and creating a snake body
-148. Animating teh snake segments on screen
+148. Animating the snake segments on screen
 149. Create a snake class & move to OOP
 150. How to control the snake with a keypress
 151. Programming is not memorising 
 
-## Day 16 Project
+## Day 20 Project
 The project for today is creating a snake game. This is part 1 of 2 in this project, and will be covering the following items:
 - Creating a snake
 - Getting the snake to move with all parts together
