@@ -36,3 +36,4 @@ This day covers class inheritance, slicing, and finishing the snake game.
 Today was pretty fun. I never would have thought about combining multiple turtles together to create a line for a snake game. At the beginning of the day, I thought we might be using a different Python package other than Turtle to create a snake game. It really opened my mind up to think a little more outside the box. I'm looking forward to working through part 2 tomorrow to complete the additional items for the game, and excited to see where I can apply all the concepts I've been learning to use in the real world with tasks in an enterprise environment. 
 
 ### Day 21
+The addition of all the elements to finalize the snake game today were very interesting. It was interesting to see the different methods to do things, and really got me thinking about using these items, like inheritance and slicing, in other projects/situations. 
