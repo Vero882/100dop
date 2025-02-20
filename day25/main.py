@@ -14,8 +14,14 @@ game_is_on = True
 user_answers = []
 
 while game_is_on:
-    user_answer = screen.textinput(title=f"{len(user_answers)}/50 States Correct", prompt="What's another state's name?")
-    user_answer.title()
+    user_answer = screen.textinput(title=f"{len(user_answers)}/50 States Correct", prompt="What's another state's name?").title()
+
+
+    if user_answer == "Exit":
+        missing_states = [state for state in data.state if state not in user_answers]
+        new_data = pandas.DataFrame(missing_states)
+        new_data.to_csv("day25/missing_states.csv")
+        break
 
     if (data.state == user_answer).any():
         if user_answer not in user_answers:
