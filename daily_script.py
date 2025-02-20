@@ -3,7 +3,7 @@
 import os
 
 # Set the day number
-DAY_NUMBER = 25
+DAY_NUMBER = ##
 
 # These lines do not need to be edited
 FOLDER_NAME = f"day{DAY_NUMBER}"
