@@ -7,14 +7,14 @@ from twilio.rest import Client
 # OpenWeatherApp API
 API_ENDPOINT = "https://api.openweathermap.org/data/2.5/forecast"
 WEATHER_API_KEY = "YOUR_WEATHER_API_KEY"
-MY_LAT = YOUR_LATITUDE
-MY_LON = YOUR_LONGITUDE
+MY_LAT = ""#YOUR_LATITUDE
+MY_LON = ""#YOUR_LONGITUDE
 
 
 weather_params = {
     "appid": WEATHER_API_KEY,
-    "lat": SAP_LAT,
-    "lon": SAP_LON,
+    "lat": MY_LAT,
+    "lon": MY_LON,
     "cnt": 4,
 }
 
