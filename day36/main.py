@@ -61,6 +61,12 @@ if percentage > 5:
         from_=TWILIO_NUMBER,
         to=SEND_TO,
     )
+    for article in three_articles_data:
+        message = client.messages.create(
+            body=article,
+            from_=TWILIO_NUMBER,
+            to=SEND_TO,
+        )
 
 else:
     print("No News")
