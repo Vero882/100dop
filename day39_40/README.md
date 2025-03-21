@@ -22,4 +22,9 @@ The project for today is a cheap flight finder application. Part one will find f
 *These files are pretty much all empty, except for a few with a basic class created.*
 
 ## Thoughts
+
+### Day 39
 Unfortunately, after fighting with this for two days I have yet to have any success. This, like many other individuals in the course have said, is the *hardest* project we've seen to date by a long shot, with very little guidance. The lack of any video explainations in the course material doesn't help. I don't want to waste too much time fighting with this project, but maybe I can return to it in the future when I understand some concepts better, and/or utilize better API resources. 
+
+### Day 40
+I will be skipping day 40 for now as it builds from day 39. Including day 39 not being completed, I'm sure my Sheety API tokens are majorily used up, so I will likely be unable to do this lesson even if I tried. 
